@@ -503,6 +503,7 @@ rabbit
 rat
 squirrel
 vole
+woodchuck
 
 # Mammalia -> Primates
 ape
